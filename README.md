@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full-Stack Applications And Web3.0 Applications<br>👯 I’m looking to collaborate on Web3.0 Technology<br>🌱 I’m currently learning Web3.0 and Full Stack Development<br>💬 Ask me about Data structures, C, C++, JavaScript, React, Express
+🔭 I’m currently working on Full-Stack Applications And Web Applications<br>👯 I’m looking to collaborate on Web Technology<br>🌱 I’m currently learning Web3.0 and Full Stack Development<br>💬 Ask me about Data structures, C, C++, JavaScript, React, Express
 
 
 ## 🌐 Socials:
